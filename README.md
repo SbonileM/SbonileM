@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SbonileMambuka
 - 👀 I’m interested in building websites and applications
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate with other developers
 - 📫 How to reach me email: sbonilemambuka158@gmail.com or cell: 0849162934
 
